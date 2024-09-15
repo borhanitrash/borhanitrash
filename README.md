@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Abdur Rahman</h1>
-<h3 align="center">A passionate AI Researcher</h3>
+<h2 align="center">A Passionate AI Researcher</h2>
+<h3 align="center">⚡ I'm Kaggle Grandmaster ⚡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhanitrash&label=Profile%20views&color=0e75b6&style=flat" alt="borhanitrash" /> </p>
 
@@ -9,19 +10,17 @@
 
 - 🔭 I’m currently working on **Research project relared to brain tumor**
 
-- 🌱 I’m currently learning **ML & DL**
+- 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/borhanitrash](https://www.kaggle.com/borhanitrash)
+- 👨‍💻 All of my projects are available at [kaggle](https://www.kaggle.com/borhanitrash)
 
-- 📝 I regularly write articles on [borhanitrash.bearblog.dev](borhanitrash.bearblog.dev)
+- 📝 I regularly write articles on [bearblog](borhanitrash.bearblog.dev)
 
-- 💬 Ask me about **AI | ML | DL | CV | NLP | Kaggle**
+- 💬 Ask me about **AI, ML, DL, CV, NLP, Kaggle**
 
 - 📫 How to reach me **abdurrahman.etc@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arahm4n/](https://www.linkedin.com/in/arahm4n/)
-
-- ⚡ Fun fact **im not human**
+- 📄 Know about my experiences at [linkedin](https://www.linkedin.com/in/arahm4n)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
