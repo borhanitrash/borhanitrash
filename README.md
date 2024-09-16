@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Abdur Rahman</h1>
-<h2 align="center">A Passionate AI Researcher</h2>
-<h3 align="center">⚡ I'm Kaggle Grandmaster ⚡</h3>
+<h1 align="center">A Passionate AI Researcher and Kaggle Grandmaster</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhanitrash&label=Profile%20views&color=0e75b6&style=flat" alt="borhanitrash" /> </p>
 
@@ -8,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/borhanitrash" target="blank"><img src="https://img.shields.io/twitter/follow/borhanitrash?logo=twitter&style=for-the-badge" alt="borhanitrash" /></a> </p>
 
-- 🔭 I’m currently working on **Research project relared to brain tumor**
+- 🔭 I’m currently working on **Research project related to brain tumor**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
