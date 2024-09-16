@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Abdur Rahman</h1>
-<h1 align="center">A Passionate AI Researcher and Kaggle Grandmaster</h1>
-
+<h2 align="center">AI Researcher and Kaggle Grandmaster</h2>
+<h3 align="center"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhanitrash&label=Profile%20views&color=0e75b6&style=flat" alt="borhanitrash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borhanitrash" alt="borhanitrash" /></a> </p>
