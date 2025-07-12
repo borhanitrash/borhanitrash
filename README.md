@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abdurrahman.etc@gmail.com**
 
-- 📄 Know about my experiences at [linkedin](https://www.linkedin.com/in/arahm4n)
+- 📄 Know about my experiences at [linkedin](https://www.linkedin.com/in/borhanitrash/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
