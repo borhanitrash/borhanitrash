@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [kaggle](https://www.kaggle.com/borhanitrash)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/borhanitrash?tab=repositories)
 
 - 📝 I regularly write articles on [bearblog](borhanitrash.bearblog.dev)
 
