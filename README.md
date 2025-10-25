@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/borhanitrash" target="blank"><img src="https://img.shields.io/twitter/follow/borhanitrash?logo=twitter&style=for-the-badge" alt="borhanitrash" /></a> </p>
 
-- 🔭 I’m currently working on **Research project related to brain tumor**
+- 🔭 I’m currently working on **Research project related to Low-Resource MT**
 
-- 🌱 I’m currently learning **Deep Learning and Computer Vision**
+- 🌱 I’m currently learning **LLM/VLM**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/borhanitrash?tab=repositories)
 
