@@ -2,9 +2,6 @@
 <h2 align="center">AI Researcher and Kaggle Grandmaster</h2>
 <h3 align="center"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhanitrash&label=Profile%20views&color=0e75b6&style=flat" alt="borhanitrash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borhanitrash" alt="borhanitrash" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/borhanitrash" target="blank"><img src="https://img.shields.io/twitter/follow/borhanitrash?logo=twitter&style=for-the-badge" alt="borhanitrash" /></a> </p>
 
 - 🔭 I’m currently working on **Research project related to Low-Resource MT**
