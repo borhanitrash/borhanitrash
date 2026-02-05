@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://twitter.com/borhanitrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="borhanitrash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arahm4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arahm4n" height="30" width="40" /></a>
-<a href="https://kaggle.com/borhanitrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="borhanitrash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
