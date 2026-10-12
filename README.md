@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/borhanitrash?tab=repositories)
 
-- 📝 I regularly write articles on [bearblog](borhanitrash.bearblog.dev)
-
 - 💬 Ask me about **AI, ML, DL, CV, NLP, Kaggle**
 
 - 📫 How to reach me **abdurrahman.etc@gmail.com**
